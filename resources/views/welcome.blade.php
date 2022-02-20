@@ -12,7 +12,7 @@
       href="{{asset('images/favicon.png')}}"
       type="image/x-icon"
     />
-    <link rel="stylesheet" href="{{mix('css/app.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/app.css')}}" />
 
     <!-- ==== WOW JS ==== -->
     <script src="{{mix('js/app.js')}}"></script>
@@ -39,7 +39,6 @@
               <img
                 src="{{asset('images/logo/logo-white.svg')}}"
                 alt="logo"
-                class="w-full header-logo"
               />
             </a>
           </div>
