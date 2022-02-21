@@ -38,7 +38,6 @@
 
   navbarToggler.addEventListener("click", () => {
     navbarToggler.classList.toggle("navbarTogglerActive");
-    navbarCollapse.classList.toggle("hidden");
   });
 
   //===== close navbar-collapse when a  clicked
