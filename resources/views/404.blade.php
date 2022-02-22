@@ -532,7 +532,7 @@
               <ul class="flex flex-wrap justify-center">
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="welcome"
                     class="
                       text-base
                       font-medium

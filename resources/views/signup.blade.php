@@ -96,7 +96,7 @@
                 <ul class="blcok lg:flex">
                   <li class="relative group">
                     <a
-                      href="#home"
+                      href="/#home"
                       class="
                         ud-menu-scroll
                         text-base text-dark
