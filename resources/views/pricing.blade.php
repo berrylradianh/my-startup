@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="{{asset('css/tailwind.css')}}" />
 
     <!-- ==== WOW JS ==== -->
-    <script src="{{mix('js/app.js')}}"></script>
+    <script src="{{asset('js/wow.min.js')}}"></script>
     <script>
       new WOW().init();
     </script>
@@ -1377,7 +1377,7 @@
           <div class="w-full sm:w-1/2 md:w-1/2 lg:w-4/12 xl:w-3/12 px-4">
             <div class="w-full mb-10">
               <a
-                href="javascript:void(0)"
+                href="welcome"
                 class="inline-block max-w-[160px] mb-6"
               >
                 <img
@@ -1594,7 +1594,7 @@
               <ul>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://lineicons.com"
                     class="
                       inline-block
                       text-base text-[#f3f4fe]
@@ -1608,7 +1608,7 @@
                 </li>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://ecommercehtml.com"
                     class="
                       inline-block
                       text-base text-[#f3f4fe]
@@ -1622,7 +1622,7 @@
                 </li>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://ayroui.com"
                     class="
                       inline-block
                       text-base text-[#f3f4fe]
@@ -1636,7 +1636,7 @@
                 </li>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://plainadmin.com"
                     class="
                       inline-block
                       text-base text-[#f3f4fe]
